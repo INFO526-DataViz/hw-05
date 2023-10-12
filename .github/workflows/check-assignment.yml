@@ -35,5 +35,5 @@ jobs:
     - name: Create artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: hw-04-html
-        path: hw-04.html
+        name: hw-05-html
+        path: hw-05.html
